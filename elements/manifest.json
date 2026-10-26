@@ -1,0 +1,3582 @@
+{
+  "$comment": "Bundled Elements assets. See README.md in this folder for how to add your own. Everything listed here ships inside the app, so users can drop it straight onto the timeline without importing anything.",
+  "categories": [
+    "Overlays",
+    "Stickers",
+    "Frames",
+    "Backgrounds",
+    "Transitions",
+    "Like & Subscribe",
+    "Sales & Discounts",
+    "Reactions",
+    "Arrows & Pointers",
+    "Effects",
+    "Comic",
+    "Celebration",
+    "Gaming",
+    "Seasonal",
+    "Callouts",
+    "Social",
+    "Highlights",
+    "Check & Cross",
+    "Bubbles",
+    "Badges",
+    "Countdown & Progress"
+  ],
+  "assets": [
+    {
+      "file": "overlays/leak-warm.webm",
+      "label": "Light Leak · Warm",
+      "category": "Overlays",
+      "tags": [
+        "light leak",
+        "glow",
+        "warm",
+        "orange",
+        "film",
+        "vintage"
+      ],
+      "scale": 1,
+      "loop": true,
+      "blend": "screen"
+    },
+    {
+      "file": "overlays/leak-rose.webm",
+      "label": "Light Leak · Rose",
+      "category": "Overlays",
+      "tags": [
+        "light leak",
+        "glow",
+        "pink",
+        "purple",
+        "dreamy"
+      ],
+      "scale": 1,
+      "loop": true,
+      "blend": "screen"
+    },
+    {
+      "file": "overlays/leak-golden.webm",
+      "label": "Light Leak · Golden Flare",
+      "category": "Overlays",
+      "tags": [
+        "light leak",
+        "flare",
+        "gold",
+        "sun",
+        "lens"
+      ],
+      "scale": 1,
+      "loop": true,
+      "blend": "screen"
+    },
+    {
+      "file": "overlays/film-grain.webm",
+      "label": "Film Grain",
+      "category": "Overlays",
+      "tags": [
+        "grain",
+        "noise",
+        "film",
+        "texture",
+        "cinematic"
+      ],
+      "scale": 1,
+      "loop": true,
+      "blend": "overlay"
+    },
+    {
+      "file": "overlays/dust-scratches.webm",
+      "label": "Dust & Scratches",
+      "category": "Overlays",
+      "tags": [
+        "dust",
+        "scratches",
+        "film",
+        "old",
+        "vintage"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "overlays/vhs.webm",
+      "label": "VHS Tape",
+      "category": "Overlays",
+      "tags": [
+        "vhs",
+        "retro",
+        "80s",
+        "90s",
+        "scanlines",
+        "glitch",
+        "tape"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "overlays/vignette.webm",
+      "label": "Vignette",
+      "category": "Overlays",
+      "tags": [
+        "vignette",
+        "dark edges",
+        "cinematic",
+        "focus"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "overlays/bokeh.webm",
+      "label": "Bokeh Lights",
+      "category": "Overlays",
+      "tags": [
+        "bokeh",
+        "lights",
+        "blur",
+        "dreamy",
+        "romantic",
+        "particles"
+      ],
+      "scale": 1,
+      "loop": true,
+      "blend": "screen"
+    },
+    {
+      "file": "overlays/rain-glass.webm",
+      "label": "Rain on Glass",
+      "category": "Overlays",
+      "tags": [
+        "rain",
+        "window",
+        "glass",
+        "drops",
+        "moody",
+        "weather"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "overlays/sparkle-dust.webm",
+      "label": "Sparkle Dust",
+      "category": "Overlays",
+      "tags": [
+        "sparkle",
+        "glitter",
+        "magic",
+        "stars",
+        "particles",
+        "shine"
+      ],
+      "scale": 1,
+      "loop": true,
+      "blend": "screen"
+    },
+    {
+      "file": "overlays/film-burn.webm",
+      "label": "Film Burn (transition)",
+      "category": "Overlays",
+      "tags": [
+        "film burn",
+        "transition",
+        "flash",
+        "burn",
+        "light leak"
+      ],
+      "scale": 1,
+      "loop": false
+    },
+    {
+      "file": "overlays/old-film.webm",
+      "label": "Old Film",
+      "category": "Overlays",
+      "tags": [
+        "old film",
+        "sepia",
+        "flicker",
+        "vintage",
+        "silent movie",
+        "grain"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "stickers/subscribe-click.webm",
+      "label": "Subscribe Click",
+      "category": "Like & Subscribe",
+      "tags": [
+        "subscribe",
+        "button",
+        "youtube",
+        "click",
+        "cursor"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/like-thumb-pop.webm",
+      "label": "Like Pop",
+      "category": "Like & Subscribe",
+      "tags": [
+        "like",
+        "thumbs up",
+        "thumb",
+        "pop"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/smash-like.webm",
+      "label": "Smash Like",
+      "category": "Like & Subscribe",
+      "tags": [
+        "like",
+        "smash",
+        "thumb",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/bell-ring.webm",
+      "label": "Notification Bell",
+      "category": "Like & Subscribe",
+      "tags": [
+        "bell",
+        "notification",
+        "subscribe",
+        "ring"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/like-sub-bell.webm",
+      "label": "Like · Subscribe · Bell",
+      "category": "Like & Subscribe",
+      "tags": [
+        "like",
+        "subscribe",
+        "bell",
+        "row",
+        "combo"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/subscribe-wave.webm",
+      "label": "Subscribe! Text",
+      "category": "Like & Subscribe",
+      "tags": [
+        "subscribe",
+        "text",
+        "wave",
+        "letters"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/follow-click.webm",
+      "label": "Follow Button",
+      "category": "Like & Subscribe",
+      "tags": [
+        "follow",
+        "button",
+        "tiktok",
+        "instagram",
+        "click"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/heart-like.webm",
+      "label": "Heart Like",
+      "category": "Like & Subscribe",
+      "tags": [
+        "heart",
+        "like",
+        "love",
+        "pop"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/comment-below.webm",
+      "label": "Comment Below",
+      "category": "Like & Subscribe",
+      "tags": [
+        "comment",
+        "speech bubble",
+        "below",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/link-below.webm",
+      "label": "Link Below",
+      "category": "Like & Subscribe",
+      "tags": [
+        "link",
+        "description",
+        "below",
+        "arrow"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/share-swoosh.webm",
+      "label": "Share",
+      "category": "Like & Subscribe",
+      "tags": [
+        "share",
+        "arrow",
+        "send"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/thumbs-spin.webm",
+      "label": "Thumbs Up Spin",
+      "category": "Like & Subscribe",
+      "tags": [
+        "like",
+        "thumbs up",
+        "spin",
+        "gold"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/laugh-face.webm",
+      "label": "Laughing",
+      "category": "Reactions",
+      "tags": [
+        "laugh",
+        "lol",
+        "funny",
+        "face",
+        "tears"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/shocked-face.webm",
+      "label": "Shocked",
+      "category": "Reactions",
+      "tags": [
+        "shocked",
+        "omg",
+        "surprised",
+        "face",
+        "wow"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/heart-eyes.webm",
+      "label": "Heart Eyes",
+      "category": "Reactions",
+      "tags": [
+        "love",
+        "heart eyes",
+        "face",
+        "crush"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/fire.webm",
+      "label": "Fire",
+      "category": "Reactions",
+      "tags": [
+        "fire",
+        "lit",
+        "hot",
+        "flame"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/hundred.webm",
+      "label": "100",
+      "category": "Reactions",
+      "tags": [
+        "100",
+        "perfect",
+        "keep it 100",
+        "stamp"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/skull.webm",
+      "label": "Skull (dead)",
+      "category": "Reactions",
+      "tags": [
+        "skull",
+        "dead",
+        "im dead",
+        "lol"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/question-marks.webm",
+      "label": "???",
+      "category": "Reactions",
+      "tags": [
+        "question",
+        "confused",
+        "what",
+        "huh"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/exclamation.webm",
+      "label": "!!",
+      "category": "Reactions",
+      "tags": [
+        "exclamation",
+        "alert",
+        "important",
+        "wow"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/arrow-right.webm",
+      "label": "Arrow Right",
+      "category": "Arrows & Pointers",
+      "tags": [
+        "arrow",
+        "point",
+        "right",
+        "look"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/arrow-down.webm",
+      "label": "Arrow Down",
+      "category": "Arrows & Pointers",
+      "tags": [
+        "arrow",
+        "point",
+        "down",
+        "look"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/arrow-left.webm",
+      "label": "Arrow Left",
+      "category": "Arrows & Pointers",
+      "tags": [
+        "arrow",
+        "point",
+        "left",
+        "look"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/arrow-up.webm",
+      "label": "Arrow Up",
+      "category": "Arrows & Pointers",
+      "tags": [
+        "arrow",
+        "point",
+        "up",
+        "look"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/circle-scribble.webm",
+      "label": "Circle It",
+      "category": "Arrows & Pointers",
+      "tags": [
+        "circle",
+        "highlight",
+        "scribble",
+        "red",
+        "look here"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/underline-swoosh.webm",
+      "label": "Underline",
+      "category": "Arrows & Pointers",
+      "tags": [
+        "underline",
+        "swoosh",
+        "highlight",
+        "marker"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/hand-tap.webm",
+      "label": "Tap Here",
+      "category": "Arrows & Pointers",
+      "tags": [
+        "tap",
+        "click",
+        "hand",
+        "finger",
+        "press"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sparkles.webm",
+      "label": "Sparkles",
+      "category": "Effects",
+      "tags": [
+        "sparkle",
+        "shine",
+        "glitter",
+        "magic",
+        "stars"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/star-burst.webm",
+      "label": "Star Burst",
+      "category": "Effects",
+      "tags": [
+        "burst",
+        "rays",
+        "star",
+        "bang"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/lightning.webm",
+      "label": "Lightning",
+      "category": "Effects",
+      "tags": [
+        "lightning",
+        "bolt",
+        "electric",
+        "zap",
+        "flash"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/boom.webm",
+      "label": "BOOM",
+      "category": "Comic",
+      "tags": [
+        "boom",
+        "explosion",
+        "comic",
+        "bang"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/hearts-float.webm",
+      "label": "Floating Hearts",
+      "category": "Effects",
+      "tags": [
+        "hearts",
+        "love",
+        "float",
+        "valentine"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/speed-lines.webm",
+      "label": "Speed Lines",
+      "category": "Effects",
+      "tags": [
+        "speed",
+        "fast",
+        "anime",
+        "lines",
+        "zoom"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/music-notes.webm",
+      "label": "Music Notes",
+      "category": "Effects",
+      "tags": [
+        "music",
+        "notes",
+        "song",
+        "singing"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/zzz.webm",
+      "label": "Zzz",
+      "category": "Effects",
+      "tags": [
+        "sleep",
+        "tired",
+        "zzz",
+        "boring"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/confetti.webm",
+      "label": "Confetti",
+      "category": "Celebration",
+      "tags": [
+        "confetti",
+        "party",
+        "celebrate",
+        "congrats"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/balloons.webm",
+      "label": "Balloons",
+      "category": "Celebration",
+      "tags": [
+        "balloons",
+        "birthday",
+        "party"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/trophy.webm",
+      "label": "Trophy",
+      "category": "Celebration",
+      "tags": [
+        "trophy",
+        "win",
+        "winner",
+        "champion",
+        "gold"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/winner-banner.webm",
+      "label": "Winner!",
+      "category": "Celebration",
+      "tags": [
+        "winner",
+        "banner",
+        "win",
+        "congrats"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/fireworks.webm",
+      "label": "Fireworks",
+      "category": "Celebration",
+      "tags": [
+        "fireworks",
+        "celebrate",
+        "new year",
+        "party"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/gg.webm",
+      "label": "GG",
+      "category": "Gaming",
+      "tags": [
+        "gg",
+        "good game",
+        "gaming",
+        "win"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/victory.webm",
+      "label": "Victory",
+      "category": "Gaming",
+      "tags": [
+        "victory",
+        "win",
+        "gaming",
+        "royale"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/level-up.webm",
+      "label": "Level Up",
+      "category": "Gaming",
+      "tags": [
+        "level up",
+        "gaming",
+        "upgrade",
+        "arrow"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/pixel-hearts.webm",
+      "label": "Health Hearts",
+      "category": "Gaming",
+      "tags": [
+        "pixel",
+        "hearts",
+        "health",
+        "lives",
+        "retro"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/coin-spin.webm",
+      "label": "Coin",
+      "category": "Gaming",
+      "tags": [
+        "coin",
+        "money",
+        "gold",
+        "gaming",
+        "spin"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/comic-wow.webm",
+      "label": "WOW!",
+      "category": "Comic",
+      "tags": [
+        "comic",
+        "wow",
+        "text",
+        "reaction"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/comic-pow.webm",
+      "label": "POW!",
+      "category": "Comic",
+      "tags": [
+        "comic",
+        "pow",
+        "text",
+        "reaction"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/comic-lol.webm",
+      "label": "LOL",
+      "category": "Comic",
+      "tags": [
+        "comic",
+        "lol",
+        "text",
+        "reaction"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/comic-omg.webm",
+      "label": "OMG",
+      "category": "Comic",
+      "tags": [
+        "comic",
+        "omg",
+        "text",
+        "reaction"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/comic-bruh.webm",
+      "label": "BRUH",
+      "category": "Comic",
+      "tags": [
+        "comic",
+        "bruh",
+        "text",
+        "reaction"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/snowfall.webm",
+      "label": "Snowfall",
+      "category": "Seasonal",
+      "tags": [
+        "snow",
+        "winter",
+        "christmas",
+        "cold"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/pumpkin.webm",
+      "label": "Pumpkin",
+      "category": "Seasonal",
+      "tags": [
+        "halloween",
+        "pumpkin",
+        "spooky"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/gift-open.webm",
+      "label": "Gift",
+      "category": "Seasonal",
+      "tags": [
+        "gift",
+        "present",
+        "christmas",
+        "birthday",
+        "surprise"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-burst-10.webm",
+      "label": "10% Off Burst",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sale",
+        "discount",
+        "off",
+        "percent",
+        "10%",
+        "10 off",
+        "10 percent",
+        "deal",
+        "burst",
+        "badge",
+        "price"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-burst-20.webm",
+      "label": "20% Off Burst",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sale",
+        "discount",
+        "off",
+        "percent",
+        "20%",
+        "20 off",
+        "20 percent",
+        "deal",
+        "burst",
+        "badge",
+        "price"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-burst-30.webm",
+      "label": "30% Off Burst",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sale",
+        "discount",
+        "off",
+        "percent",
+        "30%",
+        "30 off",
+        "30 percent",
+        "deal",
+        "burst",
+        "badge",
+        "price"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-burst-50.webm",
+      "label": "50% Off Burst",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sale",
+        "discount",
+        "off",
+        "percent",
+        "50%",
+        "50 off",
+        "50 percent",
+        "deal",
+        "burst",
+        "badge",
+        "price"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-burst-70.webm",
+      "label": "70% Off Burst",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sale",
+        "discount",
+        "off",
+        "percent",
+        "70%",
+        "70 off",
+        "70 percent",
+        "deal",
+        "burst",
+        "badge",
+        "price"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-tag-25.webm",
+      "label": "Price Tag -25%",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sale",
+        "price tag",
+        "tag",
+        "discount",
+        "off",
+        "percent",
+        "25%",
+        "price",
+        "deal",
+        "shop"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-tag-40.webm",
+      "label": "Price Tag -40%",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sale",
+        "price tag",
+        "tag",
+        "discount",
+        "off",
+        "percent",
+        "40%",
+        "price",
+        "deal",
+        "shop"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-tag-50.webm",
+      "label": "Price Tag -50%",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sale",
+        "price tag",
+        "tag",
+        "discount",
+        "off",
+        "percent",
+        "50%",
+        "price",
+        "deal",
+        "shop"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-tag-was-now.webm",
+      "label": "Price Tag $99 → $49",
+      "category": "Sales & Discounts",
+      "tags": [
+        "discount",
+        "price tag",
+        "tag",
+        "was now",
+        "price drop",
+        "crossed out",
+        "slash",
+        "sale",
+        "deal",
+        "price",
+        "cheaper",
+        "dollar",
+        "$99",
+        "$49"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-tag-dollars.webm",
+      "label": "Price Tag $$$ → $$",
+      "category": "Sales & Discounts",
+      "tags": [
+        "discount",
+        "price tag",
+        "tag",
+        "was now",
+        "price drop",
+        "crossed out",
+        "slash",
+        "sale",
+        "deal",
+        "price",
+        "cheaper",
+        "dollar",
+        "$$$",
+        "$$"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-tag-kraft.webm",
+      "label": "Price Tag $59.99 → $29.99",
+      "category": "Sales & Discounts",
+      "tags": [
+        "discount",
+        "price tag",
+        "tag",
+        "was now",
+        "price drop",
+        "crossed out",
+        "slash",
+        "sale",
+        "deal",
+        "price",
+        "cheaper",
+        "dollar",
+        "$59.99",
+        "$29.99"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-tag-white.webm",
+      "label": "Price Tag $200 → $120",
+      "category": "Sales & Discounts",
+      "tags": [
+        "discount",
+        "price tag",
+        "tag",
+        "was now",
+        "price drop",
+        "crossed out",
+        "slash",
+        "sale",
+        "deal",
+        "price",
+        "cheaper",
+        "dollar",
+        "$200",
+        "$120"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-tag-pink.webm",
+      "label": "Price Tag $40 → $25",
+      "category": "Sales & Discounts",
+      "tags": [
+        "discount",
+        "price tag",
+        "tag",
+        "was now",
+        "price drop",
+        "crossed out",
+        "slash",
+        "sale",
+        "deal",
+        "price",
+        "cheaper",
+        "dollar",
+        "$40",
+        "$25"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-discount-red.webm",
+      "label": "Discount Tag",
+      "category": "Sales & Discounts",
+      "tags": [
+        "discount",
+        "price tag",
+        "tag",
+        "sale",
+        "deal",
+        "price",
+        "shop",
+        "offer"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-discount-gold.webm",
+      "label": "Discount Tag (%)",
+      "category": "Sales & Discounts",
+      "tags": [
+        "discount",
+        "price tag",
+        "tag",
+        "sale",
+        "deal",
+        "price",
+        "shop",
+        "offer",
+        "%"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-discount-big.webm",
+      "label": "Discount Tag (BIG)",
+      "category": "Sales & Discounts",
+      "tags": [
+        "discount",
+        "price tag",
+        "tag",
+        "sale",
+        "deal",
+        "price",
+        "shop",
+        "offer",
+        "big"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-discount-teal.webm",
+      "label": "Discount Tag (TODAY ONLY)",
+      "category": "Sales & Discounts",
+      "tags": [
+        "discount",
+        "price tag",
+        "tag",
+        "sale",
+        "deal",
+        "price",
+        "shop",
+        "offer",
+        "today only"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-stamp-50.webm",
+      "label": "50% Off Stamp",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sale",
+        "stamp",
+        "50%",
+        "50 off",
+        "half price",
+        "discount",
+        "off",
+        "percent",
+        "deal",
+        "rubber stamp"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-ribbon.webm",
+      "label": "Sale Ribbon",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sale",
+        "ribbon",
+        "banner",
+        "wave",
+        "discount",
+        "shop"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-drop-letters.webm",
+      "label": "SALE! Drop",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sale",
+        "letters",
+        "bounce",
+        "drop",
+        "text",
+        "discount"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-flash.webm",
+      "label": "Flash Sale",
+      "category": "Sales & Discounts",
+      "tags": [
+        "flash sale",
+        "sale",
+        "lightning",
+        "bolt",
+        "fast",
+        "deal",
+        "limited"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-mega-neon.webm",
+      "label": "Mega Sale Neon",
+      "category": "Sales & Discounts",
+      "tags": [
+        "mega sale",
+        "sale",
+        "neon",
+        "sign",
+        "glow",
+        "night",
+        "discount"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-big-3d.webm",
+      "label": "Big Sale 3D",
+      "category": "Sales & Discounts",
+      "tags": [
+        "big sale",
+        "sale",
+        "3d",
+        "text",
+        "discount",
+        "deal"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-hot-deal.webm",
+      "label": "Hot Deal",
+      "category": "Sales & Discounts",
+      "tags": [
+        "hot deal",
+        "deal",
+        "fire",
+        "flames",
+        "hot",
+        "sale",
+        "discount"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-limited-time.webm",
+      "label": "Limited Time",
+      "category": "Sales & Discounts",
+      "tags": [
+        "limited time",
+        "clock",
+        "hurry",
+        "timer",
+        "sale",
+        "offer",
+        "deal",
+        "countdown"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-buy-now.webm",
+      "label": "Buy Now Button",
+      "category": "Sales & Discounts",
+      "tags": [
+        "buy now",
+        "button",
+        "click",
+        "cursor",
+        "shop",
+        "cart",
+        "checkout",
+        "order"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-shop-now.webm",
+      "label": "Shop Now Button",
+      "category": "Sales & Discounts",
+      "tags": [
+        "shop now",
+        "button",
+        "arrow",
+        "shop",
+        "store",
+        "buy",
+        "link"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-free-shipping.webm",
+      "label": "Free Shipping",
+      "category": "Sales & Discounts",
+      "tags": [
+        "free shipping",
+        "shipping",
+        "delivery",
+        "truck",
+        "free",
+        "shop",
+        "order"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-coupon-20.webm",
+      "label": "Coupon 20% Off",
+      "category": "Sales & Discounts",
+      "tags": [
+        "coupon",
+        "voucher",
+        "ticket",
+        "20%",
+        "20 off",
+        "discount",
+        "off",
+        "percent",
+        "save",
+        "cut"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-promo-code.webm",
+      "label": "Promo Code",
+      "category": "Sales & Discounts",
+      "tags": [
+        "promo code",
+        "promo",
+        "code",
+        "coupon",
+        "discount",
+        "save",
+        "checkout",
+        "voucher"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-bogo.webm",
+      "label": "Buy 1 Get 1 Free",
+      "category": "Sales & Discounts",
+      "tags": [
+        "bogo",
+        "buy one get one",
+        "buy 1 get 1",
+        "free",
+        "deal",
+        "sale",
+        "offer",
+        "bags",
+        "shop"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-black-friday.webm",
+      "label": "Black Friday",
+      "category": "Sales & Discounts",
+      "tags": [
+        "black friday",
+        "sale",
+        "friday",
+        "holiday",
+        "deals",
+        "discount",
+        "november"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-cyber-monday.webm",
+      "label": "Cyber Monday",
+      "category": "Sales & Discounts",
+      "tags": [
+        "cyber monday",
+        "cyber",
+        "monday",
+        "sale",
+        "glitch",
+        "neon",
+        "tech",
+        "online",
+        "deals"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-clearance.webm",
+      "label": "Clearance",
+      "category": "Sales & Discounts",
+      "tags": [
+        "clearance",
+        "sale",
+        "everything must go",
+        "stock",
+        "discount",
+        "hazard",
+        "tape"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-sold-out.webm",
+      "label": "Sold Out Stamp",
+      "category": "Sales & Discounts",
+      "tags": [
+        "sold out",
+        "stamp",
+        "out of stock",
+        "gone",
+        "sale",
+        "shop",
+        "popular"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-best-seller.webm",
+      "label": "Best Seller",
+      "category": "Sales & Discounts",
+      "tags": [
+        "best seller",
+        "bestseller",
+        "rosette",
+        "award",
+        "ribbon",
+        "top",
+        "popular",
+        "medal"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-new.webm",
+      "label": "New! Badge",
+      "category": "Sales & Discounts",
+      "tags": [
+        "new",
+        "new arrival",
+        "badge",
+        "just in",
+        "launch",
+        "shop",
+        "product"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-price-slash.webm",
+      "label": "Price Slash $99 → $49",
+      "category": "Sales & Discounts",
+      "tags": [
+        "price",
+        "price drop",
+        "slash",
+        "was now",
+        "discount",
+        "sale",
+        "deal",
+        "cheaper",
+        "dollar"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-last-chance.webm",
+      "label": "Last Chance",
+      "category": "Sales & Discounts",
+      "tags": [
+        "last chance",
+        "hurry",
+        "alert",
+        "siren",
+        "ending",
+        "final",
+        "sale",
+        "deal"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-ends-tonight.webm",
+      "label": "Ends Tonight",
+      "category": "Sales & Discounts",
+      "tags": [
+        "ends tonight",
+        "countdown",
+        "timer",
+        "hurry",
+        "last day",
+        "sale",
+        "deal",
+        "night"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-save-money.webm",
+      "label": "Save $$$",
+      "category": "Sales & Discounts",
+      "tags": [
+        "save",
+        "money",
+        "cash",
+        "dollars",
+        "coins",
+        "savings",
+        "deal",
+        "discount",
+        "sale"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-up-to-70.webm",
+      "label": "Up To 70% Off",
+      "category": "Sales & Discounts",
+      "tags": [
+        "up to",
+        "70%",
+        "70 off",
+        "sale",
+        "discount",
+        "off",
+        "percent",
+        "deal",
+        "price drop"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/sale-cart-zoom.webm",
+      "label": "Shopping Cart",
+      "category": "Sales & Discounts",
+      "tags": [
+        "shopping cart",
+        "cart",
+        "shop",
+        "shopping",
+        "store",
+        "buy",
+        "sale",
+        "groceries"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-crying.webm",
+      "label": "Crying",
+      "category": "Reactions",
+      "tags": [
+        "crying",
+        "cry",
+        "sad",
+        "tears",
+        "sob",
+        "upset",
+        "face",
+        "emotional"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-angry.webm",
+      "label": "Angry",
+      "category": "Reactions",
+      "tags": [
+        "angry",
+        "mad",
+        "rage",
+        "furious",
+        "steam",
+        "red",
+        "face"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-cool.webm",
+      "label": "Cool Shades",
+      "category": "Reactions",
+      "tags": [
+        "cool",
+        "sunglasses",
+        "shades",
+        "deal with it",
+        "chill",
+        "swag",
+        "face"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-mind-blown.webm",
+      "label": "Mind Blown",
+      "category": "Reactions",
+      "tags": [
+        "mind blown",
+        "mindblown",
+        "explode",
+        "wow",
+        "shocked",
+        "omg",
+        "face",
+        "boom"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-eye-roll.webm",
+      "label": "Eye Roll",
+      "category": "Reactions",
+      "tags": [
+        "eye roll",
+        "eyeroll",
+        "annoyed",
+        "whatever",
+        "ugh",
+        "bored",
+        "face",
+        "sarcastic"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-thinking.webm",
+      "label": "Thinking",
+      "category": "Reactions",
+      "tags": [
+        "thinking",
+        "think",
+        "hmm",
+        "wondering",
+        "idea",
+        "curious",
+        "face",
+        "ponder"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-nervous.webm",
+      "label": "Nervous Sweat",
+      "category": "Reactions",
+      "tags": [
+        "nervous",
+        "sweat",
+        "awkward",
+        "yikes",
+        "anxious",
+        "grimace",
+        "face",
+        "oops"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-clap.webm",
+      "label": "Clapping",
+      "category": "Reactions",
+      "tags": [
+        "clap",
+        "clapping",
+        "applause",
+        "bravo",
+        "hands",
+        "well done",
+        "congrats"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-kiss-wink.webm",
+      "label": "Wink Kiss",
+      "category": "Reactions",
+      "tags": [
+        "kiss",
+        "wink",
+        "love",
+        "heart",
+        "mwah",
+        "flirt",
+        "face",
+        "blow kiss"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-party.webm",
+      "label": "Party Face",
+      "category": "Reactions",
+      "tags": [
+        "party",
+        "celebrate",
+        "birthday",
+        "party hat",
+        "woohoo",
+        "yay",
+        "face",
+        "congrats"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-facepalm.webm",
+      "label": "Facepalm",
+      "category": "Reactions",
+      "tags": [
+        "facepalm",
+        "face palm",
+        "smh",
+        "ugh",
+        "fail",
+        "embarrassed",
+        "cringe",
+        "face"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/react-money-eyes.webm",
+      "label": "Money Eyes",
+      "category": "Reactions",
+      "tags": [
+        "money",
+        "rich",
+        "cash",
+        "dollar",
+        "greedy",
+        "profit",
+        "paid",
+        "face",
+        "bank"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-wait-for-it.webm",
+      "label": "Wait For It",
+      "category": "Callouts",
+      "tags": [
+        "wait for it",
+        "wait",
+        "suspense",
+        "loading",
+        "hourglass",
+        "text",
+        "coming up"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-plot-twist.webm",
+      "label": "Plot Twist",
+      "category": "Callouts",
+      "tags": [
+        "plot twist",
+        "twist",
+        "surprise",
+        "unexpected",
+        "spiral",
+        "text",
+        "reveal"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-breaking-news.webm",
+      "label": "Breaking News",
+      "category": "Callouts",
+      "tags": [
+        "breaking news",
+        "news",
+        "banner",
+        "ticker",
+        "lower third",
+        "just in",
+        "announcement",
+        "live"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-new-video.webm",
+      "label": "New Video",
+      "category": "Callouts",
+      "tags": [
+        "new video",
+        "new",
+        "video",
+        "play",
+        "upload",
+        "out now",
+        "premiere",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-live.webm",
+      "label": "LIVE",
+      "category": "Callouts",
+      "tags": [
+        "live",
+        "live stream",
+        "streaming",
+        "on air",
+        "broadcast",
+        "badge",
+        "red dot"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-rec.webm",
+      "label": "REC",
+      "category": "Callouts",
+      "tags": [
+        "rec",
+        "recording",
+        "camera",
+        "viewfinder",
+        "filming",
+        "camcorder",
+        "vlog",
+        "frame"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-to-be-continued.webm",
+      "label": "To Be Continued",
+      "category": "Callouts",
+      "tags": [
+        "to be continued",
+        "continued",
+        "cliffhanger",
+        "part 2",
+        "next",
+        "arrow",
+        "ending",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-epic-fail.webm",
+      "label": "Epic Fail",
+      "category": "Callouts",
+      "tags": [
+        "epic fail",
+        "fail",
+        "failed",
+        "stamp",
+        "broken",
+        "oops",
+        "mistake",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-oops.webm",
+      "label": "Oops!",
+      "category": "Callouts",
+      "tags": [
+        "oops",
+        "mistake",
+        "whoops",
+        "my bad",
+        "fail",
+        "splat",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-no-way.webm",
+      "label": "No Way!",
+      "category": "Callouts",
+      "tags": [
+        "no way",
+        "unbelievable",
+        "shocked",
+        "what",
+        "disbelief",
+        "speech bubble",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-lets-go.webm",
+      "label": "Let's Go!",
+      "category": "Callouts",
+      "tags": [
+        "lets go",
+        "let's go",
+        "hype",
+        "go",
+        "excited",
+        "hyped",
+        "pumped",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-facts.webm",
+      "label": "Facts ✓",
+      "category": "Callouts",
+      "tags": [
+        "facts",
+        "true",
+        "correct",
+        "agree",
+        "checkmark",
+        "verified",
+        "right",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-watch-this.webm",
+      "label": "Watch This",
+      "category": "Callouts",
+      "tags": [
+        "watch this",
+        "watch",
+        "look",
+        "eyes",
+        "pay attention",
+        "check this out",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/call-spoiler-alert.webm",
+      "label": "Spoiler Alert",
+      "category": "Callouts",
+      "tags": [
+        "spoiler alert",
+        "spoiler",
+        "warning",
+        "caution",
+        "alert",
+        "hazard",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/social-links-desc.webm",
+      "label": "Links in Description",
+      "category": "Social",
+      "tags": [
+        "links in description",
+        "link in description",
+        "description",
+        "links",
+        "link",
+        "below",
+        "arrow down",
+        "youtube",
+        "social"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/social-desc-box.webm",
+      "label": "Links Below (Description Box)",
+      "category": "Social",
+      "tags": [
+        "links in description",
+        "description",
+        "links",
+        "link",
+        "below",
+        "check the description",
+        "youtube",
+        "social"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/social-link-desc-scribble.webm",
+      "label": "Link in Description ↓",
+      "category": "Social",
+      "tags": [
+        "link in description",
+        "links in description",
+        "description",
+        "link",
+        "below",
+        "arrow",
+        "hand drawn",
+        "social"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/game-ko.webm",
+      "label": "K.O.!",
+      "category": "Gaming",
+      "tags": [
+        "ko",
+        "k.o.",
+        "knockout",
+        "fight",
+        "fighting",
+        "punch",
+        "win",
+        "gaming"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/game-combo.webm",
+      "label": "Combo x3",
+      "category": "Gaming",
+      "tags": [
+        "combo",
+        "x3",
+        "hits",
+        "streak",
+        "multiplier",
+        "counter",
+        "gaming"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/game-critical.webm",
+      "label": "Critical Hit",
+      "category": "Gaming",
+      "tags": [
+        "critical",
+        "crit",
+        "critical hit",
+        "slash",
+        "damage",
+        "rpg",
+        "gaming"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/game-headshot.webm",
+      "label": "Headshot",
+      "category": "Gaming",
+      "tags": [
+        "headshot",
+        "crosshair",
+        "aim",
+        "target",
+        "sniper",
+        "shooter",
+        "fps",
+        "gaming"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/game-xp.webm",
+      "label": "+100 XP",
+      "category": "Gaming",
+      "tags": [
+        "xp",
+        "experience",
+        "points",
+        "+100",
+        "progress bar",
+        "level",
+        "rpg",
+        "gaming"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/game-respawn.webm",
+      "label": "Respawn",
+      "category": "Gaming",
+      "tags": [
+        "respawn",
+        "countdown",
+        "3 2 1",
+        "revive",
+        "died",
+        "gaming"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/game-controller.webm",
+      "label": "Controller",
+      "category": "Gaming",
+      "tags": [
+        "controller",
+        "gamepad",
+        "joypad",
+        "buttons",
+        "console",
+        "play",
+        "gamer",
+        "gaming"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/game-vs.webm",
+      "label": "VS",
+      "category": "Gaming",
+      "tags": [
+        "vs",
+        "versus",
+        "battle",
+        "fight",
+        "1v1",
+        "match",
+        "gaming"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/game-loading.webm",
+      "label": "Loading…",
+      "category": "Gaming",
+      "tags": [
+        "loading",
+        "progress",
+        "bar",
+        "wait",
+        "buffering",
+        "please wait",
+        "gaming"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/game-over.webm",
+      "label": "Game Over",
+      "category": "Gaming",
+      "tags": [
+        "game over",
+        "lose",
+        "dead",
+        "pixel",
+        "retro",
+        "arcade",
+        "8-bit",
+        "fail",
+        "gaming"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/game-high-score.webm",
+      "label": "New High Score",
+      "category": "Gaming",
+      "tags": [
+        "high score",
+        "new record",
+        "best",
+        "score",
+        "points",
+        "arcade",
+        "win",
+        "gaming"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/social-link-in-bio.webm",
+      "label": "Link in Bio",
+      "category": "Social",
+      "tags": [
+        "link in bio",
+        "link",
+        "bio",
+        "profile",
+        "arrow up",
+        "instagram",
+        "tiktok",
+        "social"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/social-swipe-up.webm",
+      "label": "Swipe Up",
+      "category": "Social",
+      "tags": [
+        "swipe up",
+        "swipe",
+        "chevron",
+        "arrow",
+        "up",
+        "story",
+        "social"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/social-tap-follow.webm",
+      "label": "Tap to Follow",
+      "category": "Social",
+      "tags": [
+        "follow",
+        "tap to follow",
+        "plus",
+        "profile",
+        "avatar",
+        "social",
+        "button"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/social-save-this.webm",
+      "label": "Save This",
+      "category": "Social",
+      "tags": [
+        "save",
+        "save this",
+        "bookmark",
+        "save for later",
+        "social"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/social-send-friend.webm",
+      "label": "Send to a Friend",
+      "category": "Social",
+      "tags": [
+        "send",
+        "share",
+        "send to a friend",
+        "dm",
+        "paper plane",
+        "message",
+        "social"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/social-notifications.webm",
+      "label": "Turn On Notifications",
+      "category": "Social",
+      "tags": [
+        "notifications",
+        "turn on notifications",
+        "toggle",
+        "switch",
+        "bell",
+        "alerts",
+        "subscribe",
+        "social"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/social-heart-count.webm",
+      "label": "Like Counter",
+      "category": "Social",
+      "tags": [
+        "likes",
+        "heart",
+        "counter",
+        "like count",
+        "1k",
+        "love",
+        "viral",
+        "social"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/hl-marker-yellow.webm",
+      "label": "Highlighter (Yellow)",
+      "category": "Highlights",
+      "tags": [
+        "highlight",
+        "highlighter",
+        "marker",
+        "swipe",
+        "yellow",
+        "emphasis",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/hl-marker-pink.webm",
+      "label": "Highlighter (Pink)",
+      "category": "Highlights",
+      "tags": [
+        "highlight",
+        "highlighter",
+        "marker",
+        "swipe",
+        "pink",
+        "emphasis",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/hl-marker-green.webm",
+      "label": "Highlighter (Green)",
+      "category": "Highlights",
+      "tags": [
+        "highlight",
+        "highlighter",
+        "marker",
+        "swipe",
+        "green",
+        "emphasis",
+        "text"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/hl-star-doodle.webm",
+      "label": "Star Doodle",
+      "category": "Highlights",
+      "tags": [
+        "star",
+        "doodle",
+        "hand drawn",
+        "sketch",
+        "highlight",
+        "favorite",
+        "important"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/hl-scribble-x.webm",
+      "label": "Scribble X",
+      "category": "Highlights",
+      "tags": [
+        "x",
+        "cross out",
+        "wrong",
+        "no",
+        "scribble",
+        "hand drawn",
+        "mistake",
+        "highlight"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/hl-spotlight.webm",
+      "label": "Spotlight Ring",
+      "category": "Highlights",
+      "tags": [
+        "spotlight",
+        "glow",
+        "ring",
+        "circle",
+        "focus",
+        "highlight",
+        "look here"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/hl-focus-frame.webm",
+      "label": "Focus Frame",
+      "category": "Highlights",
+      "tags": [
+        "focus",
+        "frame",
+        "brackets",
+        "corners",
+        "camera",
+        "viewfinder",
+        "zoom",
+        "highlight"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/hl-checkmark.webm",
+      "label": "Checkmark",
+      "category": "Highlights",
+      "tags": [
+        "check",
+        "checkmark",
+        "tick",
+        "done",
+        "correct",
+        "yes",
+        "approved",
+        "highlight"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "overlays/rec-viewfinder.webm",
+      "label": "Camera Viewfinder · REC",
+      "category": "Overlays",
+      "tags": [
+        "rec",
+        "recording",
+        "camera",
+        "viewfinder",
+        "vlog",
+        "timecode",
+        "hud",
+        "battery"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "overlays/camcorder-90s.webm",
+      "label": "90s Camcorder",
+      "category": "Overlays",
+      "tags": [
+        "camcorder",
+        "vhs",
+        "home video",
+        "90s",
+        "retro",
+        "play",
+        "date",
+        "nostalgia"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "overlays/cinema-bars.webm",
+      "label": "Cinematic Bars",
+      "category": "Overlays",
+      "tags": [
+        "cinematic",
+        "letterbox",
+        "black bars",
+        "movie",
+        "widescreen",
+        "2.39"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "overlays/cinema-bars-in.webm",
+      "label": "Cinematic Bars · Slide In",
+      "category": "Overlays",
+      "tags": [
+        "cinematic",
+        "letterbox",
+        "black bars",
+        "movie",
+        "widescreen",
+        "intro",
+        "transition"
+      ],
+      "scale": 1,
+      "loop": false
+    },
+    {
+      "file": "overlays/film-strip.webm",
+      "label": "Film Strip Frame",
+      "category": "Overlays",
+      "tags": [
+        "film strip",
+        "film",
+        "frame",
+        "border",
+        "sprocket",
+        "vintage",
+        "cinema",
+        "reel"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "overlays/lens-flare.webm",
+      "label": "Lens Flare Sweep",
+      "category": "Overlays",
+      "tags": [
+        "lens flare",
+        "flare",
+        "anamorphic",
+        "light",
+        "cinematic",
+        "sun",
+        "blue"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "overlays/glitch.webm",
+      "label": "Digital Glitch",
+      "category": "Overlays",
+      "tags": [
+        "glitch",
+        "digital",
+        "error",
+        "rgb",
+        "distortion",
+        "cyber",
+        "transition"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "overlays/crt-screen.webm",
+      "label": "CRT Screen",
+      "category": "Overlays",
+      "tags": [
+        "crt",
+        "tv",
+        "scanlines",
+        "retro",
+        "old tv",
+        "monitor",
+        "arcade"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "overlays/hearts-drift.webm",
+      "label": "Floating Hearts",
+      "category": "Overlays",
+      "tags": [
+        "hearts",
+        "love",
+        "valentine",
+        "romantic",
+        "cute",
+        "floating"
+      ],
+      "scale": 1,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-red-circle.webm",
+      "label": "Red Circle (MrBeast style)",
+      "category": "Callouts",
+      "tags": [
+        "red circle",
+        "circle",
+        "mrbeast",
+        "thumbnail",
+        "highlight",
+        "look here",
+        "callout",
+        "marker"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-check-badge.webm",
+      "label": "Correct ✓ (3D badge)",
+      "category": "Check & Cross",
+      "tags": [
+        "check",
+        "checkmark",
+        "tick",
+        "correct",
+        "yes",
+        "right",
+        "approved",
+        "green"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-comic-bam.webm",
+      "label": "BAM!",
+      "category": "Comic",
+      "tags": [
+        "bam",
+        "comic",
+        "burst",
+        "pow",
+        "hit",
+        "punch",
+        "explosion",
+        "cartoon"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-red-arrow.webm",
+      "label": "Red Arrow (curved)",
+      "category": "Callouts",
+      "tags": [
+        "red arrow",
+        "arrow",
+        "mrbeast",
+        "thumbnail",
+        "pointer",
+        "look",
+        "callout",
+        "curved arrow"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-arrow-3d.webm",
+      "label": "Red 3D Arrow (poke)",
+      "category": "Callouts",
+      "tags": [
+        "red arrow",
+        "3d arrow",
+        "arrow",
+        "pointer",
+        "thumbnail",
+        "callout",
+        "this"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-circle-arrow.webm",
+      "label": "Circle + Arrow",
+      "category": "Callouts",
+      "tags": [
+        "red circle",
+        "arrow",
+        "mrbeast",
+        "thumbnail",
+        "highlight",
+        "callout",
+        "look here"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-red-box.webm",
+      "label": "Red Box (hand-drawn)",
+      "category": "Callouts",
+      "tags": [
+        "red box",
+        "box",
+        "rectangle",
+        "highlight",
+        "thumbnail",
+        "callout",
+        "marker",
+        "frame"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-underline-double.webm",
+      "label": "Double Underline",
+      "category": "Highlights",
+      "tags": [
+        "underline",
+        "double underline",
+        "marker",
+        "scribble",
+        "hand drawn",
+        "emphasis",
+        "highlight"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-zigzag.webm",
+      "label": "Zigzag Underline",
+      "category": "Highlights",
+      "tags": [
+        "zigzag",
+        "underline",
+        "squiggle",
+        "marker",
+        "scribble",
+        "hand drawn",
+        "emphasis"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-loop-arrow.webm",
+      "label": "Scribble Arrow (loop)",
+      "category": "Highlights",
+      "tags": [
+        "arrow",
+        "scribble",
+        "hand drawn",
+        "doodle",
+        "loop",
+        "chalk",
+        "white arrow",
+        "pointer"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-emphasis.webm",
+      "label": "Emphasis Marks",
+      "category": "Highlights",
+      "tags": [
+        "emphasis",
+        "surprise lines",
+        "shock",
+        "doodle",
+        "hand drawn",
+        "pop",
+        "attention",
+        "action lines"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-strike.webm",
+      "label": "Strike Through",
+      "category": "Highlights",
+      "tags": [
+        "strike through",
+        "cross out",
+        "wrong",
+        "no",
+        "scribble",
+        "marker",
+        "line through"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-heart-doodle.webm",
+      "label": "Heart Doodle",
+      "category": "Highlights",
+      "tags": [
+        "heart",
+        "doodle",
+        "hand drawn",
+        "love",
+        "scribble",
+        "marker",
+        "cute"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-cross-badge.webm",
+      "label": "Wrong ✗ (3D badge)",
+      "category": "Check & Cross",
+      "tags": [
+        "cross",
+        "x",
+        "wrong",
+        "no",
+        "incorrect",
+        "false",
+        "denied",
+        "red"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-checkbox.webm",
+      "label": "Checkbox Tick",
+      "category": "Check & Cross",
+      "tags": [
+        "checkbox",
+        "check",
+        "tick",
+        "done",
+        "to do",
+        "list",
+        "complete",
+        "task"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-comic-zap.webm",
+      "label": "ZAP!",
+      "category": "Comic",
+      "tags": [
+        "zap",
+        "comic",
+        "electric",
+        "shock",
+        "lightning",
+        "burst",
+        "cartoon"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-comic-kapow.webm",
+      "label": "KAPOW!",
+      "category": "Comic",
+      "tags": [
+        "kapow",
+        "pow",
+        "comic",
+        "burst",
+        "punch",
+        "hit",
+        "cartoon",
+        "superhero"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-comic-wham.webm",
+      "label": "WHAM!",
+      "category": "Comic",
+      "tags": [
+        "wham",
+        "comic",
+        "burst",
+        "hit",
+        "slam",
+        "cartoon",
+        "impact"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-bubble-speech.webm",
+      "label": "Speech Bubble (blank)",
+      "category": "Bubbles",
+      "tags": [
+        "speech bubble",
+        "bubble",
+        "talk",
+        "say",
+        "comic",
+        "blank",
+        "dialogue",
+        "balloon",
+        "text box"
+      ],
+      "scale": 0.45,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-bubble-rect.webm",
+      "label": "Speech Box (blank)",
+      "category": "Bubbles",
+      "tags": [
+        "speech bubble",
+        "text box",
+        "bubble",
+        "talk",
+        "comic",
+        "blank",
+        "dialogue",
+        "caption box"
+      ],
+      "scale": 0.45,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-bubble-thought.webm",
+      "label": "Thought Bubble (blank)",
+      "category": "Bubbles",
+      "tags": [
+        "thought bubble",
+        "thinking",
+        "think",
+        "cloud",
+        "idea",
+        "dream",
+        "bubble",
+        "blank",
+        "comic"
+      ],
+      "scale": 0.45,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-bubble-shout.webm",
+      "label": "Shout Bubble (blank)",
+      "category": "Bubbles",
+      "tags": [
+        "shout",
+        "yell",
+        "scream",
+        "loud",
+        "speech bubble",
+        "comic",
+        "burst",
+        "blank",
+        "exclaim"
+      ],
+      "scale": 0.45,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-bubble-typing.webm",
+      "label": "Typing… Chat Bubble",
+      "category": "Bubbles",
+      "tags": [
+        "typing",
+        "chat",
+        "message",
+        "text message",
+        "dots",
+        "bubble",
+        "dm",
+        "texting",
+        "reply"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-badge-live.webm",
+      "label": "LIVE + Viewer Count",
+      "category": "Badges",
+      "tags": [
+        "live",
+        "live stream",
+        "streaming",
+        "viewers",
+        "watching",
+        "badge",
+        "on air",
+        "broadcast",
+        "red"
+      ],
+      "scale": 0.42,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-badge-new.webm",
+      "label": "NEW Starburst",
+      "category": "Badges",
+      "tags": [
+        "new",
+        "new badge",
+        "starburst",
+        "seal",
+        "sticker",
+        "badge",
+        "fresh",
+        "just dropped",
+        "announcement"
+      ],
+      "scale": 0.36,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-badge-trending.webm",
+      "label": "TRENDING Badge",
+      "category": "Badges",
+      "tags": [
+        "trending",
+        "viral",
+        "trend",
+        "hot",
+        "popular",
+        "badge",
+        "chart",
+        "up",
+        "growth"
+      ],
+      "scale": 0.42,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-badge-exclusive.webm",
+      "label": "EXCLUSIVE Gold Ribbon",
+      "category": "Badges",
+      "tags": [
+        "exclusive",
+        "ribbon",
+        "banner",
+        "gold",
+        "premium",
+        "vip",
+        "special",
+        "badge",
+        "award"
+      ],
+      "scale": 0.45,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-badge-breaking.webm",
+      "label": "BREAKING NEWS Bar",
+      "category": "Badges",
+      "tags": [
+        "breaking news",
+        "breaking",
+        "news",
+        "bar",
+        "headline",
+        "announcement",
+        "tv",
+        "alert",
+        "banner"
+      ],
+      "scale": 0.5,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-badge-on-air.webm",
+      "label": "ON AIR Sign",
+      "category": "Badges",
+      "tags": [
+        "on air",
+        "live",
+        "recording",
+        "studio",
+        "podcast",
+        "radio",
+        "broadcast",
+        "sign",
+        "neon"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-count-321.webm",
+      "label": "Countdown 3-2-1 Go",
+      "category": "Countdown & Progress",
+      "tags": [
+        "countdown",
+        "3 2 1",
+        "go",
+        "timer",
+        "start",
+        "ready",
+        "race",
+        "count down",
+        "numbers"
+      ],
+      "scale": 0.42,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-count-film.webm",
+      "label": "Film Countdown (old movie)",
+      "category": "Countdown & Progress",
+      "tags": [
+        "film countdown",
+        "film leader",
+        "old movie",
+        "vintage",
+        "retro",
+        "countdown",
+        "cinema",
+        "3 2 1",
+        "sepia",
+        "projector"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-progress-bar.webm",
+      "label": "Loading Bar 0–100%",
+      "category": "Countdown & Progress",
+      "tags": [
+        "loading",
+        "progress bar",
+        "loading bar",
+        "progress",
+        "percent",
+        "download",
+        "buffering",
+        "complete",
+        "install"
+      ],
+      "scale": 0.48,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-spinner.webm",
+      "label": "Loading Spinner",
+      "category": "Countdown & Progress",
+      "tags": [
+        "loading",
+        "spinner",
+        "buffering",
+        "wait",
+        "please wait",
+        "processing",
+        "circle",
+        "ring"
+      ],
+      "scale": 0.32,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-subscribe-bell.webm",
+      "label": "Subscribe + Bell (cursor click)",
+      "category": "Like & Subscribe",
+      "tags": [
+        "subscribe",
+        "subscribe button",
+        "bell",
+        "notification",
+        "click",
+        "cursor",
+        "youtube",
+        "channel",
+        "subscribed"
+      ],
+      "scale": 0.55,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-like-rail.webm",
+      "label": "Like · Comment · Share (side rail)",
+      "category": "Like & Subscribe",
+      "tags": [
+        "like",
+        "comment",
+        "share",
+        "shorts",
+        "reels",
+        "buttons",
+        "engagement",
+        "thumbs up",
+        "side bar"
+      ],
+      "scale": 0.42,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-thumbs-down.webm",
+      "label": "Thumbs Down (dislike)",
+      "category": "Like & Subscribe",
+      "tags": [
+        "dislike",
+        "thumbs down",
+        "boo",
+        "bad",
+        "no",
+        "fail",
+        "nope",
+        "downvote"
+      ],
+      "scale": 0.36,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-confetti-pop.webm",
+      "label": "Confetti Popper",
+      "category": "Celebration",
+      "tags": [
+        "confetti",
+        "party popper",
+        "popper",
+        "celebration",
+        "party",
+        "birthday",
+        "congrats",
+        "cannon",
+        "win"
+      ],
+      "scale": 0.5,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-smoke-poof.webm",
+      "label": "Smoke Poof",
+      "category": "Effects",
+      "tags": [
+        "smoke",
+        "poof",
+        "puff",
+        "cloud",
+        "disappear",
+        "vanish",
+        "dust",
+        "cartoon",
+        "transition"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-double-tap-heart.webm",
+      "label": "Double-Tap Heart",
+      "category": "Reactions",
+      "tags": [
+        "heart",
+        "like",
+        "double tap",
+        "love",
+        "instagram",
+        "reaction",
+        "pop",
+        "tap"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-bling.webm",
+      "label": "Bling Shine",
+      "category": "Effects",
+      "tags": [
+        "bling",
+        "shine",
+        "sparkle",
+        "glint",
+        "twinkle",
+        "shiny",
+        "clean",
+        "new",
+        "diamond",
+        "glitter"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-live-reactions.webm",
+      "label": "Live Reactions Stream",
+      "category": "Reactions",
+      "tags": [
+        "live",
+        "reactions",
+        "hearts",
+        "likes",
+        "stream",
+        "livestream",
+        "floating",
+        "emoji",
+        "laugh",
+        "wow"
+      ],
+      "scale": 0.45,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-explosion.webm",
+      "label": "Cartoon Explosion",
+      "category": "Comic",
+      "tags": [
+        "explosion",
+        "explode",
+        "boom",
+        "blast",
+        "fire",
+        "bomb",
+        "kaboom",
+        "cartoon",
+        "fireball"
+      ],
+      "scale": 0.5,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-money-rain.webm",
+      "label": "Money Rain",
+      "category": "Celebration",
+      "tags": [
+        "money",
+        "money rain",
+        "cash",
+        "dollars",
+        "rich",
+        "bills",
+        "make it rain",
+        "coins",
+        "win",
+        "payday"
+      ],
+      "scale": 0.55,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-anger-vein.webm",
+      "label": "Anger Vein 💢",
+      "category": "Reactions",
+      "tags": [
+        "angry",
+        "anger",
+        "mad",
+        "vein",
+        "anime",
+        "manga",
+        "annoyed",
+        "rage",
+        "frustrated"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-sweat-drop.webm",
+      "label": "Sweat Drop (anime)",
+      "category": "Reactions",
+      "tags": [
+        "sweat",
+        "sweat drop",
+        "nervous",
+        "awkward",
+        "anime",
+        "manga",
+        "embarrassed",
+        "oops",
+        "drop"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-flames.webm",
+      "label": "Flames (loop)",
+      "category": "Effects",
+      "tags": [
+        "fire",
+        "flames",
+        "flame",
+        "burning",
+        "hot",
+        "lit",
+        "blaze",
+        "campfire",
+        "on fire"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-hearts-burst.webm",
+      "label": "Hearts Burst",
+      "category": "Celebration",
+      "tags": [
+        "hearts",
+        "love",
+        "burst",
+        "valentine",
+        "romance",
+        "cute",
+        "crush",
+        "explode",
+        "pop"
+      ],
+      "scale": 0.4,
+      "loop": true
+    },
+    {
+      "file": "stickers/cr-star-pop.webm",
+      "label": "Gold Stars Pop",
+      "category": "Effects",
+      "tags": [
+        "stars",
+        "star",
+        "gold",
+        "burst",
+        "sparkle",
+        "win",
+        "achievement",
+        "level up",
+        "reward",
+        "pop"
+      ],
+      "scale": 0.4,
+      "loop": true
+    }
+  ]
+}
